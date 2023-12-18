@@ -5,8 +5,8 @@ This is basically a transcript/notebook version of Dr. Andrew Jahn's YouTube tut
 
 Requirements:
 
-- mrtrix3
-- freesurfer
-- fsl
-- ants
+- mrtrix3 (https://www.mrtrix.org)
+- freesurfer (https://surfer.nmr.mgh.harvard.edu)
+- fsl (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/)
+- ants (https://github.com/ANTsX/ANTs)
   
